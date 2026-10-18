@@ -201,12 +201,10 @@ function ContactComponent() {
                       Visit HQ
                     </p>
                     <p className="font-semibold text-lg">
-                      Oberoi Garden City, Off Western Express Highway, Goregaon
-                      East,
+                      Knowledge Park 244-245, Udyog Vihar, Phase-IV, Gurgaon –
+                      122015,
                     </p>
-                    <p className="text-gray-500 text-sm">
-                      Mumbai, 400063, Maharashtra, India
-                    </p>
+                    <p className="text-gray-500 text-sm">Haryana, India</p>
                   </div>
                 </div>
               </div>
