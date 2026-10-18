@@ -83,7 +83,7 @@ function RouteComponent() {
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  PMI SA
+                  PMI IN
                 </a>{" "}
                 web site ("Site") and/or Mobile App together with all
                 information, content, products, materials and services made
@@ -159,7 +159,7 @@ function RouteComponent() {
                     rel="noopener noreferrer"
                     target="_blank"
                   >
-                    PMI SA
+                    PMI IN
                   </a>
                   , owned and operated by Project Management Institute, Inc.
                 </P>

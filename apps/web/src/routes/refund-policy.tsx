@@ -89,7 +89,7 @@ function RouteComponent() {
             <h2 className="pt-2 font-bold text-xl">No Full Refunds</h2>
             <ul className="list-disc space-y-2 pl-6 leading-7">
               <li>
-                Please note that PMI SA does not provide a 100% refund under any
+                Please note that PMI IN does not provide a 100% refund under any
                 circumstances.
               </li>
               <li>
@@ -106,9 +106,9 @@ function RouteComponent() {
                 To initiate a refund, candidates must email{" "}
                 <a
                   className="underline underline-offset-2 hover:opacity-70"
-                  href="mailto:sales@pmisa.in"
+                  href="mailto:sales@pmiindia.com"
                 >
-                  sales@pmisa.in
+                  sales@pmiindia.com
                 </a>{" "}
                 with the following details: full name, registered email ID,
                 course name, payment receipt, and reason for cancellation.
@@ -160,7 +160,7 @@ function RouteComponent() {
             <h2 className="pt-2 font-bold text-xl">Consent to Policies</h2>
             <ul className="list-disc space-y-2 pl-6 leading-7">
               <li>
-                By enrolling in any course offered by PMI SA, candidates
+                By enrolling in any course offered by PMI IN, candidates
                 acknowledge and agree to abide by all policies, terms of
                 service, and refund guidelines.
               </li>
@@ -175,20 +175,20 @@ function RouteComponent() {
                 acceptance of all terms and conditions.
               </li>
               <li>
-                PMI SA is an independent training and service provider and is
+                PMI IN is an independent training and service provider and is
                 not affiliated with, authorized by, or officially connected to
                 any other institute, organization, or governing body. All rights
                 to its services, content, and training materials are exclusively
-                owned and reserved by PMI SA.
+                owned and reserved by PMI IN.
               </li>
               <li>
                 Our programs are intended solely for skill development and
-                professional growth. PMI SA does not guarantee any job
+                professional growth. PMI IN does not guarantee any job
                 placement, promotion, financial gain, or other monetary benefits
                 upon completion of its training or certification programs.
               </li>
               <li>
-                PMI SA is not responsible for any financial, personal, or
+                PMI IN is not responsible for any financial, personal, or
                 professional losses incurred by individuals who enroll in our
                 services based on third-party recommendations, promotions, or
                 representations. Participation in such engagements is entirely
@@ -223,9 +223,9 @@ function RouteComponent() {
                     Email:{" "}
                     <a
                       className="underline underline-offset-2 hover:opacity-70"
-                      href="mailto:sales@pmisa.in"
+                      href="mailto:sales@pmiindia.com"
                     >
-                      sales@pmisa.in
+                      sales@pmiindia.com
                     </a>
                   </li>
                   <li>Proof of transaction</li>
@@ -297,14 +297,14 @@ function RouteComponent() {
 
             <h2 className="pt-2 font-bold text-xl">Refund Policy Summary</h2>
             <p className="leading-7">
-              PMI SA follows a strict refund policy to maintain the integrity of
+              PMI IN follows a strict refund policy to maintain the integrity of
               its training and examination systems. No refund is applicable once
               a candidate attempts any pre-board or final examination, or
               accesses study materials, assessments, or training content.
               Candidates may request a 90% refund only if the request is raised
               within 24 hours of payment and before attempting or attending any
               exam; a mandatory 10% deduction applies in all refund cases to
-              cover administrative, content, and platform costs. PMI SA does not
+              cover administrative, content, and platform costs. PMI IN does not
               offer a 100% refund under any circumstances. Refund requests must
               be submitted in writing via email with complete details, and
               approved refunds are processed within 5–7 working days, with an
@@ -313,7 +313,7 @@ function RouteComponent() {
               candidate's own pace, dissatisfaction with course content, or
               reliance on third-party recommendations. By enrolling, candidates
               confirm that they have read, understood, and agreed to all terms
-              and policies. PMI SA is an independent training provider and does
+              and policies. PMI IN is an independent training provider and does
               not guarantee employment, monetary benefits, or outcomes from its
               programs.
             </p>

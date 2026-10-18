@@ -17,11 +17,11 @@ export const Route = createFileRoute("/about")({
   component: AboutComponent,
   head: () => ({
     meta: [
-      { title: "About | PMI SA" },
+      { title: "About | PMI IN" },
       {
         name: "description",
         content:
-          "Verified PMI SA corporate financial details, banking partner, and secure payment transparency.",
+          "Verified PMI IN corporate financial details, banking partner, and secure payment transparency.",
       },
     ],
   }),
@@ -55,7 +55,7 @@ function AboutComponent() {
             </h1>
 
             <p className="mt-6 max-w-xl text-[#475569] text-lg leading-8 lg:text-xl">
-              At PMI SA, we maintain strictly verified financial channels for
+              At PMI IN, we maintain strictly verified financial channels for
               all enterprise transactions through our official partner, ensuring
               the highest standards of accountability and trust in every
               operation we undertake.
@@ -338,7 +338,7 @@ function MemberCard({ name, role }: { name: string; role: string }) {
         </div>
       </div>
       <p className="mt-4 text-[#475569] text-sm leading-6">
-        {role} at PMI SA, supporting verified and transparent financial
+        {role} at PMI IN, supporting verified and transparent financial
         operations.
       </p>
     </article>

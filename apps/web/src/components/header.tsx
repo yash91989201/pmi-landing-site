@@ -192,7 +192,7 @@ const NAV_ITEMS: readonly NavItem[] = [
     ],
   },
   {
-    label: "PMI SA for Organizations",
+    label: "PMI IN for Organizations",
     groups: [
       {
         title: "Enterprise",
@@ -311,7 +311,7 @@ function TopUtilityBar() {
       <div className="flex h-14 items-center justify-between gap-4 px-6">
         <Link className="flex items-center gap-3" to="/">
           <img
-            alt="PMI SA Logo"
+            alt="PMI IN Logo"
             className="h-10 w-auto"
             height={40}
             src="/logo.webp"
@@ -322,7 +322,7 @@ function TopUtilityBar() {
         <div className="flex gap-4">
           <a
             className="text-gray-700 text-sm hover:text-primary"
-            href="https://exam.pmisa.in"
+            href="https://exam.pmiindia.com"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -525,7 +525,7 @@ function MobileSheet({
         <div className="flex items-center gap-2 border-gray-200 border-t bg-white p-4">
           <a
             className="flex-1 rounded border border-primary px-3 py-2 text-center font-semibold text-primary text-sm"
-            href="https://exam.pmisa.in"
+            href="https://exam.pmiindia.com"
             onClick={onClose}
             rel="noopener noreferrer"
             target="_blank"

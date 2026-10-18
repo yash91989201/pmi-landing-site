@@ -183,7 +183,9 @@ function ContactComponent() {
                     <p className="mb-1 font-bold text-gray-400 text-sm uppercase tracking-wider">
                       Email Us
                     </p>
-                    <p className="mb-1 font-semibold text-lg">sales@pmisa.in</p>
+                    <p className="mb-1 font-semibold text-lg">
+                      sales@pmiindia.com
+                    </p>
                     <p className="text-gray-500 text-sm">
                       Expect a reply within 24 hours
                     </p>
@@ -391,13 +393,13 @@ function ContactComponent() {
                     <div className="absolute z-50 mt-2 max-h-72 w-full overflow-y-auto rounded-xl border border-gray-100 bg-white shadow-2xl">
                       <div className="sticky top-0 border-gray-100 border-b bg-white p-3">
                         <input
-                          ref={searchInputRef}
-                          type="text"
-                          placeholder="Search certifications..."
                           className="w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:border-pmi-primary focus:outline-none"
-                          value={certSearchQuery}
                           onChange={(e) => setCertSearchQuery(e.target.value)}
                           onClick={(e) => e.stopPropagation()}
+                          placeholder="Search certifications..."
+                          ref={searchInputRef}
+                          type="text"
+                          value={certSearchQuery}
                         />
                       </div>
                       {filteredCertifications.length === 0 ? (

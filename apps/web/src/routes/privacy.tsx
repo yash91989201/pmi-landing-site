@@ -69,7 +69,7 @@ function RouteComponent() {
                 className="underline underline-offset-2 hover:opacity-70"
                 href="/"
               >
-                PMI SA
+                PMI IN
               </a>{" "}
               ("<strong>US Site</strong>"), Mobile App and our China website{" "}
               <span className="underline underline-offset-2 hover:opacity-70">

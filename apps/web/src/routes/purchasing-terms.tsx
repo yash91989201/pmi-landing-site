@@ -46,7 +46,7 @@ function RouteComponent() {
           <div className="space-y-5 font-aeonik text-pmi-text-primary">
             <p className="text-lg leading-7">
               Terms and conditions applicable to the purchase of event tickets,
-              merchandise, and other PMI SA products.
+              merchandise, and other PMI IN products.
             </p>
             <p className="leading-7">
               <strong>Refund Policy:</strong> Event cancellations must be
