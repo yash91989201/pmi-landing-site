@@ -162,7 +162,7 @@ function BusinessCard() {
           <IconCertificate size={16} />
         </div>
         <p className="mt-3 font-extrabold text-2xl text-[#1e0a45]">
-          PMI <span className="text-[#5b21b6]">SA</span>
+          PMI <span className="text-[#5b21b6]">IN</span>
         </p>
         <p className="mt-1 text-slate-500 text-sm">
           Trusted. Verified. Compliant.
