@@ -170,7 +170,7 @@ function ContactComponent() {
                     </p>
                     <p className="font-semibold text-lg">8065347982</p>
                     <p className="text-gray-500 text-sm">
-                      Mon-Fri, 9am - 5pm IST
+                      Mon-Sat 10:00AM-08:00PM IST
                     </p>
                   </div>
                 </div>
