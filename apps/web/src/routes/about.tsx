@@ -219,7 +219,7 @@ function BusinessDetailsCard() {
           className="md:col-span-2 xl:col-span-1"
           icon={<IconUser size={22} />}
           label="Account Holder Name"
-          value="Kaptan Singh Bunkar (Account / Finance Manager)"
+          value="Kaptan Singh Bunkar (Finance Manager)"
         />
         <DetailItem
           icon={<IconId size={22} />}
