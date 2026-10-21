@@ -168,7 +168,7 @@ function ContactComponent() {
                     <p className="mb-1 font-bold text-gray-400 text-sm uppercase tracking-wider">
                       Call Us
                     </p>
-                    <p className="font-semibold text-lg">80XXXXXXXX12</p>
+                    <p className="font-semibold text-lg">8065347982</p>
                     <p className="text-gray-500 text-sm">
                       Mon-Fri, 9am - 5pm IST
                     </p>
@@ -201,10 +201,10 @@ function ContactComponent() {
                       Visit HQ
                     </p>
                     <p className="font-semibold text-lg">
-                      Knowledge Park 244-245, Udyog Vihar, Phase-IV, Gurgaon –
-                      122015,
+                      Oberoi Garden City, Off Western Express Highway, Goregaon
+                      East, Mumbai, 400063
                     </p>
-                    <p className="text-gray-500 text-sm">Haryana, India</p>
+                    <p className="text-gray-500 text-sm">Maharashtra, India</p>
                   </div>
                 </div>
               </div>

@@ -192,7 +192,7 @@ function BusinessCard() {
           className="md:col-span-2 xl:col-span-3"
           icon={<IconMapPin size={22} />}
           label="Registered Business Address"
-          value="Knowledge Park 244-245, Udyog Vihar, Phase-IV, Gurgaon – 122015, Haryana, India"
+          value="Oberoi Garden City, Off Western Express Highway, Goregaon East, Mumbai, 400063, Maharashtra, India"
         />
       </div>
     </article>
