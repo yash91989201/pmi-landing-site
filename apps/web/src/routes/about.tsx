@@ -194,6 +194,32 @@ function BusinessCard() {
           label="Registered Business Address"
           value="Oberoi Garden City, Off Western Express Highway, Goregaon East, Mumbai, 400063, Maharashtra, India"
         />
+        <DetailItem
+          icon={<IconBuildingBank size={22} />}
+          label="Bank Name"
+          value="Central Bank of India"
+        />
+        <DetailItem
+          icon={<IconFileInvoice size={22} />}
+          label="Account Number"
+          value="5994923883"
+        />
+        <DetailItem
+          className="md:col-span-2 xl:col-span-1"
+          icon={<IconUser size={22} />}
+          label="Account Holder Name"
+          value="Kaptan Singh Bunkar (Account / Finance Manager)"
+        />
+        <DetailItem
+          icon={<IconId size={22} />}
+          label="IFSC Code"
+          value="CBIN0284853"
+        />
+        <DetailItem
+          icon={<IconBuildingCommunity size={22} />}
+          label="Branch Name"
+          value="Mahroni"
+        />
       </div>
     </article>
   );
