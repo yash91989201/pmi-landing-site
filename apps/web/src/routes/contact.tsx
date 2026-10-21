@@ -257,7 +257,7 @@ function ContactComponent() {
                 onSubmit={handleSubmit(onSubmit)}
               >
                 <h3 className="mb-8 font-bold text-2xl text-gray-900">
-                  Send us a message
+                  Registration
                 </h3>
 
                 <div className="mb-8 grid grid-cols-1 gap-8 md:grid-cols-2">
