@@ -322,6 +322,14 @@ function TopUtilityBar() {
         <div className="flex gap-4">
           <a
             className="text-gray-700 text-sm hover:text-primary"
+            href="https://consent.pmiindia.com"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            Enroll
+          </a>
+          <a
+            className="text-gray-700 text-sm hover:text-primary"
             href="https://exam.pmiindia.com"
             rel="noopener noreferrer"
             target="_blank"
@@ -523,6 +531,15 @@ function MobileSheet({
           </Link>
         </div>
         <div className="flex items-center gap-2 border-gray-200 border-t bg-white p-4">
+          <a
+            className="flex-1 rounded bg-primary px-3 py-2 text-center font-semibold text-primary-foreground text-sm"
+            href="https://consent.pmiindia.com"
+            onClick={onClose}
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            Enroll
+          </a>
           <a
             className="flex-1 rounded border border-primary px-3 py-2 text-center font-semibold text-primary text-sm"
             href="https://exam.pmiindia.com"
