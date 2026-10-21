@@ -36,7 +36,10 @@ const badges = [
   { label: "Government Registered", icon: <IconCertificate size={18} /> },
 ];
 
-const members = [{ name: "Kaptan Singh Bunkar", role: "Finance Manager" }];
+const members = [
+  { name: "Kaptan Singh Bunkar", role: "Finance Manager" },
+  { name: "Vikesh Rawat", role: "Account / Finance Manager" },
+];
 
 function AboutComponent() {
   return (
