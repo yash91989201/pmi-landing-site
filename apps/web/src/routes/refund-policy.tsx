@@ -106,9 +106,9 @@ function RouteComponent() {
                 To initiate a refund, candidates must email{" "}
                 <a
                   className="underline underline-offset-2 hover:opacity-70"
-                  href="mailto:sales@pmisa.in"
+                  href="mailto:sales@pmiindia.com"
                 >
-                  sales@pmisa.in
+                  sales@pmiindia.com
                 </a>{" "}
                 with the following details: full name, registered email ID,
                 course name, payment receipt, and reason for cancellation.
@@ -223,9 +223,9 @@ function RouteComponent() {
                     Email:{" "}
                     <a
                       className="underline underline-offset-2 hover:opacity-70"
-                      href="mailto:sales@pmisa.in"
+                      href="mailto:sales@pmiindia.com"
                     >
-                      sales@pmisa.in
+                      sales@pmiindia.com
                     </a>
                   </li>
                   <li>Proof of transaction</li>

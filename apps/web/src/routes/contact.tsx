@@ -168,7 +168,12 @@ function ContactComponent() {
                     <p className="mb-1 font-bold text-gray-400 text-sm uppercase tracking-wider">
                       Call Us
                     </p>
-                    <p className="font-semibold text-lg">80XXXXXXXX12</p>
+                    <a
+                      className="font-semibold text-lg hover:underline"
+                      href="tel:+918065347982"
+                    >
+                      +91 8065347982
+                    </a>
                     <p className="text-gray-500 text-sm">
                       Mon-Fri, 9am - 5pm IST
                     </p>
@@ -183,7 +188,12 @@ function ContactComponent() {
                     <p className="mb-1 font-bold text-gray-400 text-sm uppercase tracking-wider">
                       Email Us
                     </p>
-                    <p className="mb-1 font-semibold text-lg">sales@pmisa.in</p>
+                    <a
+                      className="mb-1 block font-semibold text-lg hover:underline"
+                      href="mailto:sales@pmiindia.com"
+                    >
+                      sales@pmiindia.com
+                    </a>
                     <p className="text-gray-500 text-sm">
                       Expect a reply within 24 hours
                     </p>
@@ -200,10 +210,7 @@ function ContactComponent() {
                     </p>
                     <p className="font-semibold text-lg">
                       Oberoi Garden City, Off Western Express Highway, Goregaon
-                      East,
-                    </p>
-                    <p className="text-gray-500 text-sm">
-                      Mumbai, 400063, Maharashtra, India
+                      East, Mumbai, 400063, Maharashtra, India
                     </p>
                   </div>
                 </div>
