@@ -38,7 +38,7 @@ const badges = [
 
 const members = [
   { name: "Kaptan Singh Bunkar", role: "Finance Manager" },
-  { name: "Vikesh Rawat", role: "Account / Finance Manager" },
+  { name: "Vikesh Rawat", role: "Account Manager" },
 ];
 
 function AboutComponent() {
