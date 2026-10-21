@@ -70,8 +70,10 @@ function AboutComponent() {
             </div>
           </div>
 
-          <BusinessCard />
+          <BusinessHeaderCard />
         </section>
+
+        <BusinessDetailsCard />
 
         <section className="mt-12 grid gap-6 md:grid-cols-3">
           <InfoCard
@@ -150,10 +152,10 @@ function AboutComponent() {
   );
 }
 
-function BusinessCard() {
+function BusinessHeaderCard() {
   return (
-    <article className="flex flex-col gap-8 rounded-[2rem] border border-slate-200/70 bg-white p-5 shadow-[0_20px_50px_rgba(15,23,42,0.10)] sm:p-6 xl:p-8">
-      <div className="rounded-3xl bg-[#f5f0ff] px-6 py-8 text-center">
+    <article className="rounded-[2rem] border border-slate-200/70 bg-white p-5 shadow-[0_20px_50px_rgba(15,23,42,0.10)] sm:p-6 xl:p-8">
+      <div className="rounded-3xl bg-[#f5f0ff] px-6 py-10 text-center">
         <div className="mx-auto flex h-28 w-28 items-center justify-center rounded-full bg-white/70">
           <IconShieldCheck className="text-[#5b21b6]" size={60} stroke={1.8} />
         </div>
@@ -168,7 +170,13 @@ function BusinessCard() {
           Trusted. Verified. Compliant.
         </p>
       </div>
+    </article>
+  );
+}
 
+function BusinessDetailsCard() {
+  return (
+    <article className="mt-10 rounded-[2rem] border border-slate-200/70 bg-white p-5 shadow-[0_20px_50px_rgba(15,23,42,0.10)] sm:p-6 xl:p-8">
       <div className="grid min-w-0 gap-4 md:grid-cols-2 xl:grid-cols-3">
         <DetailItem
           className="md:col-span-2 xl:col-span-3"
