@@ -326,7 +326,7 @@ function TopUtilityBar() {
             rel="noopener noreferrer"
             target="_blank"
           >
-            Register
+            Enroll
           </a>
           <a
             className="text-gray-700 text-sm hover:text-primary"
@@ -538,7 +538,7 @@ function MobileSheet({
             rel="noopener noreferrer"
             target="_blank"
           >
-            Register
+            Enroll
           </a>
           <a
             className="flex-1 rounded border border-primary px-3 py-2 text-center font-semibold text-primary text-sm"
